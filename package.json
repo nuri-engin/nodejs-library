@@ -1,6 +1,6 @@
 {
   "name": "nodejs_library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A sample library for the Node JS applications.",
   "keywords": [
     "library",
